@@ -1,0 +1,37 @@
+
+	 
+
+
+
+	 body {color:green;
+	       background-color:pink;
+	 
+	 }
+	h1 {background-color: blue;
+		background-size:cover;
+		background-position:center;
+		display:flex;
+		flex-direction:column;
+		color:white;
+		justify-content:center;
+	   
+	   }
+	   
+	h3 {border:2px solid black;
+	 }
+	
+	   
+	 p.purple {
+	 
+	 color:purple;
+	 font-size:25px
+	 
+	 }
+	 
+	 #contact {
+		 background-color:rgba(29,28,29,0.986);
+		 background-blend-mode:overlay;
+		 background size:cover;
+		 color:blue;
+		 
+	 }
